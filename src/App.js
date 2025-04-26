@@ -19,32 +19,32 @@ function App() {
 
       <main className="p-6 space-y-12">
         <section id="upcoming">
-          <h2 className="text-2xl font-semibold mb-2">📅 Upcoming Releases</h2>
+          <h2 className="text-2xl font-semibold mb-2">Upcoming Releases</h2>
           <p>List of anime, manhwa, and webtoon releases with trailers and summaries will go here.</p>
         </section>
 
         <section id="trending">
-          <h2 className="text-2xl font-semibold mb-2">🔥 Trending Now</h2>
+          <h2 className="text-2xl font-semibold mb-2">Trending Now</h2>
           <p>Top trending shows and comics based on buzz.</p>
         </section>
 
         <section id="reviews">
-          <h2 className="text-2xl font-semibold mb-2">💬 Fan Reactions & Reviews</h2>
+          <h2 className="text-2xl font-semibold mb-2">Fan Reactions & Reviews</h2>
           <p>Curated Reddit, X (Twitter), and meme content.</p>
         </section>
 
         <section id="platforms">
-          <h2 className="text-2xl font-semibold mb-2">🎥 Where to Watch/Read</h2>
+          <h2 className="text-2xl font-semibold mb-2">Where to Watch/Read</h2>
           <p>Crunchyroll, Netflix, Webtoon, and more.</p>
         </section>
 
         <section id="merch">
-          <h2 className="text-2xl font-semibold mb-2">🛍 Merch & Collectibles</h2>
+          <h2 className="text-2xl font-semibold mb-2">Merch & Collectibles</h2>
           <p>Limited edition drops and where to buy.</p>
         </section>
 
         <section id="events">
-          <h2 className="text-2xl font-semibold mb-2">🎉 Events & Cons</h2>
+          <h2 className="text-2xl font-semibold mb-2">Events & Cons</h2>
           <p>Anime expos, K-cons, and online fan meetups.</p>
         </section>
       </main>
